@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, Just here to explore 👋
 
 <!--
 **PujaK-7/PujaK-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
